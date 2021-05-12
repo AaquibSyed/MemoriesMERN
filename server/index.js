@@ -16,7 +16,7 @@ app.use(cors());
 
 const PORT = process.env.PORT || 5000;
 
-// connect to DB and listen to server when connection is successful
+// connect to DB and listen to server wheyn connection is successful
 const CONNECTION_URL =
   "mongodb+srv://AaquibSyed19:AaquibSyed19@cluster0.fzxhx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
